@@ -1,0 +1,5 @@
+Python (3.6 or higher)
+
+
+pip install flask 
+pip install flask-socketio
